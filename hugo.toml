@@ -1,0 +1,8 @@
+baseURL = "http://localhost:1313/"
+theme = "hextra"
+title = "האתר החדש שלי"
+languageCode = "he"
+
+[params]
+  [params.navbar]
+    displaySearch = false
