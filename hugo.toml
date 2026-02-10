@@ -1,8 +1,15 @@
 baseURL = "http://localhost:1313/"
 theme = "hextra"
-title = "האתר החדש שלי"
-languageCode = "he"
+title = "הבלוג שלי"
 
 [params]
-  [params.navbar]
-    displaySearch = false
+  [params.theme]
+    default = "dark"      # נסה לשנות ל-dark כדי לראות אם האתר בכלל מסוגל להפוך לשחור
+    displayToggle = true
+
+[menu]
+  [[menu.main]]
+    name = "Theme Toggle"
+    weight = 100
+    [menu.main.params]
+      type = "theme-toggle" # הגדרה ידנית של הכפתור בתוך התפריט

@@ -1,10 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>האתר החדש שלי – האתר החדש שלי</title>
+    <title>הבלוג שלי – הבלוג שלי</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on האתר החדש שלי</description>
+    <description>Recent content on הבלוג שלי</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>he</language>
+    <language>en</language>
     
 	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
